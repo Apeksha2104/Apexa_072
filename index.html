@@ -213,6 +213,7 @@
         const heightM = heightCm / 100;
         const bmi = weightKg / (heightM * heightM);
         const finalBmi = bmi.toFixed(1);
+
         let status = "";
         if (bmi < 16) status = "Severe Thinness";
         else if (bmi >= 16 && bmi < 17) status = "Moderate Thinness";
