@@ -1,4 +1,4 @@
-# BMI Calculator Web Application
+# BMI Calculator 
 
 A user-friendly, responsive Body Mass Index (BMI) Calculator built using HTML, CSS, and JavaScript. This application calculates BMI based on age, gender, height, and weight, providing instant classification feedback.
 
