@@ -1,14 +1,13 @@
 # Responsive BMI Calculator Web Application
 
-A user-friendly, responsive Body Mass Index (BMI) Calculator built using HTML5, CSS3, and JavaScript. This application calculates BMI based on age, gender, height, and weight, providing instant classification feedback.
+A user-friendly, responsive Body Mass Index (BMI) Calculator built using HTML, CSS, and JavaScript. This application calculates BMI based on age, gender, height, and weight, providing instant classification feedback.
 
 # Features
 *  Clean layout with interactive form elements.
 *  Computes BMI dynamically using the standard formula.
 *  Visual indicators for Underweight, Normal, Overweight, and Obese ranges.
 *  Optimized for desktops, tablets, and smartphones.
-
----
+*  
 ##  Docker Documentation
 
 ### 1. Build the Docker Image
